@@ -1,0 +1,22 @@
+body {
+ background-color: powderblue;
+}
+
+hr {
+ width: 50%;
+ border: gray;
+ border-style: dotted none none;
+ border-width: 5px;
+}
+
+h1 {
+ color: teal;
+}
+
+h3 {
+ color: teal;
+}
+
+th {
+ color: teal;
+}
